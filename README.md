@@ -4,7 +4,7 @@
 
 ## Project Description 
 
-This shows top crypto currencies and their details after getting them from API and simulates your own personal portfolio (https://dummyjson.com/products/)
+This shows top crypto currencies and their details after getting them from API and simulates your own personal portfolio (https://api.coingecko.com/api/v3/coins)
 
 ## Table of Contents
 
